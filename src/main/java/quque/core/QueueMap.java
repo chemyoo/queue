@@ -43,4 +43,8 @@ public class QueueMap {
 		}
 		return true;
 	}
+	
+	public static void clear() {
+		MAP.clear();
+	}
 }

@@ -61,6 +61,7 @@ public class RunApp {
 				System.err.println("√ª”–∫≈¡À");
 			}
 			if(QueueMap.isEmpty()) {
+				QueueMap.clear();
 				break;
 			}
 		}
